@@ -1,0 +1,14 @@
+pypianoroll==0.5.0
+tf-slim
+librosa==0.8.1
+matplotlib==3.4.2
+pretty-midi==0.2.9
+argparse
+mir_eval==0.6
+pandas==1.2.4
+pretty-midi==0.2.9
+soundfile
+tensorflow
+imageio==2.9.0
+scipy==1.6.3
+midiutil==1.2.1
