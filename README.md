@@ -36,3 +36,6 @@ python3 step5.py
 We put some of our results in `misc/` directory for references. We recommend using DAW software to open midi file.
 
 Feel free to generate your own drum tracks!
+
+---
+This project is created by I-Chun (Bronwin) Chen and YING-YUN WANG.
