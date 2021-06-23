@@ -12,3 +12,5 @@ tensorflow
 imageio==2.9.0
 scipy==1.6.3
 midiutil==1.2.1
+python-git
+git+https://github.com/vishnubob/python-midi@feature/python3
